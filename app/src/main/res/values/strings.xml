@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxExamples</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_somenthing_and_the_observer_will_print_it_here">Type somenthing and the observer will print it here!</string>
+</resources>
